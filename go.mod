@@ -1,4 +1,4 @@
-module github.com/reggieoswald-ads/logger
+module github.com/reggieoswald-ads/rlogger
 
 go 1.21.4
 
